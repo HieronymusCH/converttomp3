@@ -1,0 +1,3 @@
+This project's aim is to create software to allow Linux users to easily convert their music files to MP3. This is important because many portable music players either don't support any formats other than MP3, or don't support the other formats well enough to be usable.
+
+Currently, the software is a simple command line utility that converts from M4A files (such as the DRM-free tracks that can be purchased from iTunes) to MP3 files. I hope that this software will eventually evolve into a fully-featured music converter with a solid GUI.
